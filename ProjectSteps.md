@@ -10,4 +10,4 @@ utils/cn.ts
 then add source components
 components/ui/navbar-menu.tsx
 
-
+Step 3 create herosection
